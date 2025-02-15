@@ -1,2 +1,2 @@
 # bookbot
-tutorial repository, please ignore
+BookBot is my first project!
